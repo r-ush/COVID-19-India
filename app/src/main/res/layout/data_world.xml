@@ -14,4 +14,5 @@
             android:text="Data World"
             android:textSize="24sp"/>
     </androidx.core.widget.NestedScrollView>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
